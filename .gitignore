@@ -1,0 +1,11 @@
+# Build output
+hms.exe
+hms
+build/
+
+# Database files
+database/*.dat
+
+# OS generated files
+.DS_Store
+Thumbs.db
