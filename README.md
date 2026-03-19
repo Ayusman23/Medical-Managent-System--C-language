@@ -1,6 +1,20 @@
 # Hospital Management System
 
-A fully functional, terminal-based **Hospital Management System (HMS)** written in **pure C (C99)** with **binary file I/O** for persistent data storage.
+A fully functional, terminal-based **Hospital Management System (HMS)** written in **pure C (C99)** with **binary file I/O** for persistent data storage, now featuring a **Modern Web UI Dashboard**!
+
+---
+
+## 🌟 NEW: Modern Web UI Dashboard
+
+We have added a stunning, fully dynamic Web UI that seamlessly bridges to the C backend! You can now use a beautiful web browser interface to manage Patients, Doctors, Appointments, Wards, and Billing while retaining the lightning-fast C binary `.dat` storage. 
+
+### How to use the Web UI:
+1. Make sure you have **Python** installed.
+2. Double click the **`start_ui.bat`** file, or run:
+   ```powershell
+   .\start_ui.bat
+   ```
+3. The server will start and the dashboard will automatically open in your default browser at `http://127.0.0.1:5000/`.
 
 ---
 
