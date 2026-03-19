@@ -25,6 +25,12 @@ hospital_mgmt/
 ├── main.c                   ← Entry point
 ├── Makefile                 ← Build system
 ├── config.h                 ← Global constants & file paths
+├── server.py                ← Python web server
+├── start_ui.bat             ← Windows launcher for Web UI
+│
+├── web/                     ← Web UI assets
+│   ├── index.html           ← Dashboard dashboard
+│   └── (other web assets)
 │
 ├── frontend/
 │   ├── ui.h                 ← UI function prototypes
